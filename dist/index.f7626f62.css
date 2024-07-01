@@ -30,14 +30,14 @@ body {
 }
 
 .container {
-  background-color: #fff;
+  background-color: #0000;
   border-radius: 9px;
   grid-template: "head head" 10rem
                  "list recipe" minmax(100rem, auto)
                  / 1fr 2fr;
-  max-width: 120rem;
+  max-width: 95%;
   min-height: 117rem;
-  margin: 4vw auto;
+  margin: auto;
   display: grid;
   overflow: hidden;
   box-shadow: 0 2rem 6rem .5rem #61555133;
@@ -255,6 +255,7 @@ body {
   grid-area: head;
   justify-content: space-between;
   align-items: center;
+  margin-bottom: 1rem;
   display: flex;
 }
 
@@ -486,7 +487,9 @@ body {
 }
 
 .search-results {
+  background-color: #fdce87;
   flex-direction: column;
+  margin-right: 1rem;
   padding: 3rem 0;
   display: flex;
 }
