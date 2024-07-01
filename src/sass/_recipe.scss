@@ -1,11 +1,12 @@
 .recipe {
   background-color: $color-grey-light-1;
-
+  border-radius: 9px;
   ///////////
   // FIGURE
   &__fig {
     height: 32rem;
     position: relative;
+
     // transform: scale(1.04) translateY(-1px);
     transform-origin: top;
 
@@ -31,6 +32,7 @@
     display: block;
     height: 100%;
     object-fit: cover;
+    border-radius: 9px;
   }
 
   &__title {
