@@ -1,4 +1,4 @@
-9711
+9715
 52C:\Users\Ricardo\Desktop\starter\node_modules\braces133642078940508763 1
 89C:\Users\Ricardo\Desktop\starter\node_modules\core-js\stable\typed-array\last-index-of.js133642110493753329 0
 107C:\Users\Ricardo\Desktop\starter\node_modules\node-gyp-build-optional-packages\node_modules\detect-libc\lib133642079308838775 1
@@ -7,7 +7,7 @@
 63C:\Users\Ricardo\Desktop\starter\node_modules\svgo\lib\style.js133642065993136765 0
 71C:\Users\Ricardo\Desktop\starter\node_modules\lines-and-columns\LICENSE133642065848653486 0
 36C:\Users\Ricardo\Desktop\starter\src133642079389014306 1
-37C:\Users\Ricardo\Desktop\starter\dist133643206032630133 1
+37C:\Users\Ricardo\Desktop\starter\dist133645730864488041 1
 44C:\Users\Ricardo\Desktop\starter\.prettierrc132886955210000000 0
 81C:\Users\Ricardo\Desktop\starter\node_modules\core-js\internals\proxy-accessor.js133642110538152607 0
 80C:\Users\Ricardo\Desktop\starter\node_modules\core-js\actual\typed-array\from.js133642110234569495 0
@@ -208,12 +208,39 @@
 72C:\Users\Ricardo\Desktop\starter\node_modules\cosmiconfig\dist\util.d.ts133642066050474284 0
 93C:\Users\Ricardo\Desktop\starter\node_modules\css-select\lib\pseudo-selectors\subselects.d.ts133642066075495367 0
 72C:\Users\Ricardo\Desktop\starter\node_modules\core-js\actual\date\now.js133642110512042815 0
+56C:\Users\Ricardo\Desktop\starter\node_modules\css-select133642079064059844 1
+81C:\Users\Ricardo\Desktop\starter\node_modules\@swc\helpers\_\_object_spread_props133642078914908503 1
+80C:\Users\Ricardo\Desktop\starter\node_modules\msgpackr\dist\index-no-eval.min.js133642065949931392 0
+96C:\Users\Ricardo\Desktop\starter\node_modules\dom-serializer\node_modules\entities\lib\decode.js133642065875417555 0
+49C:\Users\Ricardo\Desktop\starter\src\js\config.js133645680211186001 0
+81C:\Users\Ricardo\Desktop\starter\node_modules\node-releases\data\release-schedule133642079312538720 1
+63C:\Users\Ricardo\Desktop\starter\node_modules\js-yaml\README.md133642066012816954 0
 75C:\Users\Ricardo\Desktop\starter\node_modules\core-js\stable\reflect\set.js133642110582024881 0
 84C:\Users\Ricardo\Desktop\starter\node_modules\svgo\plugins\convertEllipseToCircle.js133642066046373953 0
 58C:\Users\Ricardo\Desktop\starter\node_modules\css-tree\cjs133642079108104961 1
 76C:\Users\Ricardo\Desktop\starter\node_modules\core-js\stable\string\blink.js133642109776551708 0
-53C:\Users\Ricardo\Desktop\starter\src\js\controller.js133643204336698396 0
+53C:\Users\Ricardo\Desktop\starter\src\js\controller.js133645730792171829 0
 80C:\Users\Ricardo\Desktop\starter\node_modules\type-fest\ts41\delimiter-case.d.ts133642065951871524 0
+101C:\Users\Ricardo\Desktop\starter\node_modules\core-js\modules\esnext.reflect.get-own-metadata-keys.js133642110052762361 0
+54C:\Users\Ricardo\Desktop\starter\node_modules\argparse133642078936068685 1
+94C:\Users\Ricardo\Desktop\starter\node_modules\@swc\helpers\cjs\_class_apply_descriptor_get.cjs133642065965256300 0
+74C:\Users\Ricardo\Desktop\starter\node_modules\core-js\es\object\entries.js133642109938014270 0
+83C:\Users\Ricardo\Desktop\starter\node_modules\source-map\lib\source-map-consumer.js133642065950007237 0
+82C:\Users\Ricardo\Desktop\starter\node_modules\css-what\lib\commonjs\stringify.d.ts133642065988659727 0
+88C:\Users\Ricardo\Desktop\starter\node_modules\@parcel\workers\src\core-worker.browser.js133642065953775842 0
+69C:\Users\Ricardo\Desktop\starter\node_modules\core-js\stable\weak-set133642110447215029 1
+50C:\Users\Ricardo\Desktop\starter\src\js\helpers.js133643180229597339 0
+79C:\Users\Ricardo\Desktop\starter\node_modules\core-js\features\instance\fill.js133642110096698354 0
+84C:\Users\Ricardo\Desktop\starter\node_modules\core-js\modules\es.object.to-string.js133642109978191575 0
+103C:\Users\Ricardo\Desktop\starter\node_modules\csso\node_modules\css-tree\lib\syntax\atrule\font-face.js133642066107839625 0
+57C:\Users\Ricardo\Desktop\starter\node_modules\.bin\semver133642066321047559 0
+77C:\Users\Ricardo\Desktop\starter\node_modules\caniuse-lite\data\regions\AS.js133642066025051570 0
+61C:\Users\Ricardo\Desktop\starter\node_modules\lmdb\caching.js133642066093776358 0
+96C:\Users\Ricardo\Desktop\starter\node_modules\core-js\modules\esnext.set.symmetric-difference.js133642110056764752 0
+67C:\Users\Ricardo\Desktop\starter\node_modules\source-map-js\LICENSE133642065848533526 0
+83C:\Users\Ricardo\Desktop\starter\node_modules\csso\node_modules\css-tree\cjs\syntax133642079157382461 1
+85C:\Users\Ricardo\Desktop\starter\node_modules\core-js\features\array\virtual\slice.js133642110585324073 0
+121C:\Users\Ricardo\Desktop\starter\node_modules\msgpackr-extract\node_modules\node-gyp-build-optional-packages\package.json133642065924611525 0
 89C:\Users\Ricardo\Desktop\starter\node_modules\caniuse-lite\data\features\passwordrules.js133642066250814951 0
 51C:\Users\Ricardo\Desktop\starter\node_modules\@lmdb133642161188339314 1
 71C:\Users\Ricardo\Desktop\starter\node_modules\core-js\es\regexp\test.js133642110620632051 0
@@ -226,7 +253,7 @@
 87C:\Users\Ricardo\Desktop\starter\node_modules\caniuse-lite\data\features\canvas-text.js133642066080601494 0
 82C:\Users\Ricardo\Desktop\starter\node_modules\core-js\modules\es.object.has-own.js133642109976520993 0
 71C:\Users\Ricardo\Desktop\starter\node_modules\@swc\helpers\src\_get.mjs133642066175025036 0
-48C:\Users\Ricardo\Desktop\starter\src\js\model.js133643201985727871 0
+48C:\Users\Ricardo\Desktop\starter\src\js\model.js133645686613220939 0
 92C:\Users\Ricardo\Desktop\starter\node_modules\core-js\stable\string\virtual\code-point-at.js133642109800606489 0
 83C:\Users\Ricardo\Desktop\starter\node_modules\core-js\features\typed-array\index.js133642110407777200 0
 73C:\Users\Ricardo\Desktop\starter\node_modules\type-fest\source\basic.d.ts133642065913319616 0
@@ -234,7 +261,7 @@
 66C:\Users\Ricardo\Desktop\starter\node_modules\argparse\argparse.js133642065881881664 0
 82C:\Users\Ricardo\Desktop\starter\node_modules\core-js\stable\array\virtual\keys.js133642110487953092 0
 79C:\Users\Ricardo\Desktop\starter\node_modules\core-js\internals\get-iterator.js133642110265068724 0
-59C:\Users\Ricardo\Desktop\starter\src\js\views\recipeView.js133643205974786855 0
+59C:\Users\Ricardo\Desktop\starter\src\js\views\recipeView.js133645721749205391 0
 90C:\Users\Ricardo\Desktop\starter\node_modules\csso\node_modules\css-tree\lib\data-patch.js133642066104941966 0
 93C:\Users\Ricardo\Desktop\starter\node_modules\core-js\features\array\virtual\filter-reject.js133642110103129640 0
 83C:\Users\Ricardo\Desktop\starter\node_modules\@swc\helpers\cjs\_async_generator.cjs133642065926430112 0
@@ -252,7 +279,7 @@
 101C:\Users\Ricardo\Desktop\starter\node_modules\csso\node_modules\css-tree\cjs\syntax\node\Operator.cjs133642066072946009 0
 102C:\Users\Ricardo\Desktop\starter\node_modules\csso\node_modules\css-tree\lib\syntax\node\MediaQuery.js133642066121215928 0
 82C:\Users\Ricardo\Desktop\starter\node_modules\cosmiconfig\dist\cacheWrapper.js.map133642065969423580 0
-45C:\Users\Ricardo\Desktop\starter\src\js\views133643169245052677 1
+45C:\Users\Ricardo\Desktop\starter\src\js\views133645688358270190 1
 86C:\Users\Ricardo\Desktop\starter\node_modules\core-js\actual\array\virtual\group-by.js133642110307282258 0
 86C:\Users\Ricardo\Desktop\starter\node_modules\lmdb\dependencies\lmdb-data-v1\libraries133642079257950219 1
 76C:\Users\Ricardo\Desktop\starter\node_modules\core-js\actual\array\values.js133642110674791449 0
@@ -363,10 +390,6 @@
 69C:\Users\Ricardo\Desktop\starter\node_modules\core-js\stable\index.js133642110428605294 0
 83C:\Users\Ricardo\Desktop\starter\node_modules\caniuse-lite\data\features\svg-css.js133642066283230785 0
 54C:\Users\Ricardo\Desktop\starter\node_modules\anymatch133642078934905072 1
-101C:\Users\Ricardo\Desktop\starter\node_modules\core-js\modules\esnext.reflect.get-own-metadata-keys.js133642110052762361 0
-54C:\Users\Ricardo\Desktop\starter\node_modules\argparse133642078936068685 1
-94C:\Users\Ricardo\Desktop\starter\node_modules\@swc\helpers\cjs\_class_apply_descriptor_get.cjs133642065965256300 0
-74C:\Users\Ricardo\Desktop\starter\node_modules\core-js\es\object\entries.js133642109938014270 0
 86C:\Users\Ricardo\Desktop\starter\node_modules\lmdb\dependencies\v8\v8-fast-api-calls.h133642066092631145 0
 63C:\Users\Ricardo\Desktop\starter\node_modules\binary-extensions133642078938672224 1
 103C:\Users\Ricardo\Desktop\starter\node_modules\lmdb\dependencies\lmdb-data-v1\libraries\liblmdb\Doxyfile133642065909187332 0
@@ -390,9 +413,6 @@
 58C:\Users\Ricardo\Desktop\starter\node_modules\caniuse-lite133642079033713665 1
 57C:\Users\Ricardo\Desktop\starter\node_modules\cosmiconfig133642079046317956 1
 83C:\Users\Ricardo\Desktop\starter\node_modules\core-js\features\array\copy-within.js133642109847276735 0
-56C:\Users\Ricardo\Desktop\starter\node_modules\css-select133642079064059844 1
-81C:\Users\Ricardo\Desktop\starter\node_modules\@swc\helpers\_\_object_spread_props133642078914908503 1
-80C:\Users\Ricardo\Desktop\starter\node_modules\msgpackr\dist\index-no-eval.min.js133642065949931392 0
 54C:\Users\Ricardo\Desktop\starter\node_modules\css-what133642079122721774 1
 88C:\Users\Ricardo\Desktop\starter\node_modules\core-js\actual\instance\find-last-index.js133642110147074205 0
 50C:\Users\Ricardo\Desktop\starter\node_modules\csso133642079138361069 1
@@ -865,6 +885,7 @@
 75C:\Users\Ricardo\Desktop\starter\node_modules\@swc\helpers\scripts\utils.js133642066115422330 0
 88C:\Users\Ricardo\Desktop\starter\node_modules\@parcel\core\src\requests\DevDepRequest.js133642066060101077 0
 52C:\Users\Ricardo\Desktop\starter\node_modules\srcset133642079365406635 1
+60C:\Users\Ricardo\Desktop\starter\src\js\views\resultsView.js133645688864097419 0
 80C:\Users\Ricardo\Desktop\starter\node_modules\core-js\features\symbol\matcher.js133642110507505156 0
 78C:\Users\Ricardo\Desktop\starter\node_modules\core-js\full\weak-set\add-all.js133642109701686651 0
 92C:\Users\Ricardo\Desktop\starter\node_modules\node-gyp-build-optional-packages\build-test.js133642065872159109 0
@@ -1107,7 +1128,7 @@
 81C:\Users\Ricardo\Desktop\starter\node_modules\css-tree\cjs\syntax\scope\index.cjs133642066063125615 0
 62C:\Users\Ricardo\Desktop\starter\node_modules\cosmiconfig\dist133642079051889972 1
 72C:\Users\Ricardo\Desktop\starter\node_modules\core-js\es\number\index.js133642110391567055 0
-48C:\Users\Ricardo\Desktop\starter\dist\index.html133643204774623579 0
+48C:\Users\Ricardo\Desktop\starter\dist\index.html133645603151369464 0
 65C:\Users\Ricardo\Desktop\starter\node_modules\type-fest\base.d.ts133642065906724158 0
 86C:\Users\Ricardo\Desktop\starter\node_modules\css-tree\lib\syntax\node\UnicodeRange.js133642066133108284 0
 78C:\Users\Ricardo\Desktop\starter\node_modules\electron-to-chromium\versions.js133642065918462381 0
@@ -1256,6 +1277,7 @@
 67C:\Users\Ricardo\Desktop\starter\node_modules\svgo\lib\svgo-node.js133642065994789655 0
 74C:\Users\Ricardo\Desktop\starter\node_modules\core-js\es\symbol\key-for.js133642110483268943 0
 72C:\Users\Ricardo\Desktop\starter\node_modules\parent-module\package.json133642065848754681 0
+59C:\Users\Ricardo\Desktop\starter\src\js\views\searchView.js133645627277213912 0
 81C:\Users\Ricardo\Desktop\starter\node_modules\type-fest\source\tsconfig-json.d.ts133642066020261158 0
 87C:\Users\Ricardo\Desktop\starter\node_modules\core-js\internals\symbol-is-well-known.js133642110617768621 0
 93C:\Users\Ricardo\Desktop\starter\node_modules\@swc\helpers\_\_class_private_field_destructure133642078884804546 1
@@ -1667,20 +1689,6 @@
 96C:\Users\Ricardo\Desktop\starter\node_modules\caniuse-lite\data\features\prefers-color-scheme.js133642066262824235 0
 80C:\Users\Ricardo\Desktop\starter\node_modules\node-addon-api\tools\conversion.js133642065982196174 0
 88C:\Users\Ricardo\Desktop\starter\node_modules\htmlnano\docs\versioned_docs\version-2.0.0133642079213249630 1
-83C:\Users\Ricardo\Desktop\starter\node_modules\source-map\lib\source-map-consumer.js133642065950007237 0
-82C:\Users\Ricardo\Desktop\starter\node_modules\css-what\lib\commonjs\stringify.d.ts133642065988659727 0
-88C:\Users\Ricardo\Desktop\starter\node_modules\@parcel\workers\src\core-worker.browser.js133642065953775842 0
-69C:\Users\Ricardo\Desktop\starter\node_modules\core-js\stable\weak-set133642110447215029 1
-84C:\Users\Ricardo\Desktop\starter\node_modules\core-js\modules\es.object.to-string.js133642109978191575 0
-103C:\Users\Ricardo\Desktop\starter\node_modules\csso\node_modules\css-tree\lib\syntax\atrule\font-face.js133642066107839625 0
-57C:\Users\Ricardo\Desktop\starter\node_modules\.bin\semver133642066321047559 0
-77C:\Users\Ricardo\Desktop\starter\node_modules\caniuse-lite\data\regions\AS.js133642066025051570 0
-61C:\Users\Ricardo\Desktop\starter\node_modules\lmdb\caching.js133642066093776358 0
-96C:\Users\Ricardo\Desktop\starter\node_modules\core-js\modules\esnext.set.symmetric-difference.js133642110056764752 0
-67C:\Users\Ricardo\Desktop\starter\node_modules\source-map-js\LICENSE133642065848533526 0
-83C:\Users\Ricardo\Desktop\starter\node_modules\csso\node_modules\css-tree\cjs\syntax133642079157382461 1
-85C:\Users\Ricardo\Desktop\starter\node_modules\core-js\features\array\virtual\slice.js133642110585324073 0
-121C:\Users\Ricardo\Desktop\starter\node_modules\msgpackr-extract\node_modules\node-gyp-build-optional-packages\package.json133642065924611525 0
 78C:\Users\Ricardo\Desktop\starter\node_modules\source-map-js\lib\source-node.js133642065951871524 0
 72C:\Users\Ricardo\Desktop\starter\node_modules\source-map-js\package.json133642065958938298 0
 85C:\Users\Ricardo\Desktop\starter\node_modules\core-js\features\async-iterator\from.js133642110235276991 0
@@ -2386,9 +2394,6 @@
 103C:\Users\Ricardo\Desktop\starter\node_modules\caniuse-lite\data\features\css-container-queries-style.js133642066104256223 0
 77C:\Users\Ricardo\Desktop\starter\node_modules\core-js\internals\array-fill.js133642109721606029 0
 72C:\Users\Ricardo\Desktop\starter\node_modules\msgpackr-extract\README.md133642065912673897 0
-96C:\Users\Ricardo\Desktop\starter\node_modules\dom-serializer\node_modules\entities\lib\decode.js133642065875417555 0
-81C:\Users\Ricardo\Desktop\starter\node_modules\node-releases\data\release-schedule133642079312538720 1
-63C:\Users\Ricardo\Desktop\starter\node_modules\js-yaml\README.md133642066012816954 0
 103C:\Users\Ricardo\Desktop\starter\node_modules\node-releases\data\release-schedule\release-schedule.json133642065896671292 0
 74C:\Users\Ricardo\Desktop\starter\node_modules\core-js\actual\array\join.js133642110480850069 0
 104C:\Users\Ricardo\Desktop\starter\node_modules\css-select\node_modules\dom-serializer\lib\foreignNames.js133642065882994191 0
@@ -3345,8 +3350,8 @@
 67C:\Users\Ricardo\Desktop\starter\node_modules\dotenv-expand\LICENSE133642065882034347 0
 69C:\Users\Ricardo\Desktop\starter\node_modules\dotenv-expand\README.md133642065890901015 0
 77C:\Users\Ricardo\Desktop\starter\node_modules\core-js\stable\regexp\search.js133642110565265502 0
-71C:\Users\Ricardo\Desktop\starter\node_modules\dotenv-expand\lib\main.js133642065902661465 0
 82C:\Users\Ricardo\Desktop\starter\node_modules\css-tree\lib\lexer\prepare-tokens.js133642066129061554 0
+71C:\Users\Ricardo\Desktop\starter\node_modules\dotenv-expand\lib\main.js133642065902661465 0
 85C:\Users\Ricardo\Desktop\starter\node_modules\core-js\actual\function\virtual\bind.js133642109769901538 0
 98C:\Users\Ricardo\Desktop\starter\node_modules\core-js\internals\typed-array-species-constructor.js133642110662780196 0
 82C:\Users\Ricardo\Desktop\starter\node_modules\core-js\features\weak-set\add-all.js133642109700847879 0
@@ -4010,10 +4015,6 @@
 76C:\Users\Ricardo\Desktop\starter\node_modules\core-js\actual\get-iterator.js133642110264390185 0
 76C:\Users\Ricardo\Desktop\starter\node_modules\css-what\lib\es\stringify.d.ts133642065991603663 0
 80C:\Users\Ricardo\Desktop\starter\node_modules\css-what\lib\es\stringify.d.ts.map133642065968444826 0
-89C:\Users\Ricardo\Desktop\starter\node_modules\core-js\modules\esnext.set.difference.v2.js133642110054104870 0
-78C:\Users\Ricardo\Desktop\starter\node_modules\core-js\stable\array\for-each.js133642110227440121 0
-73C:\Users\Ricardo\Desktop\starter\node_modules\css-tree\lib\lexer\match.js133642066123360069 0
-84C:\Users\Ricardo\Desktop\starter\node_modules\core-js\modules\es.typed-array.from.js133642110012618309 0
 92C:\Users\Ricardo\Desktop\starter\node_modules\core-js\internals\create-iter-result-object.js133642109860066330 0
 74C:\Users\Ricardo\Desktop\starter\node_modules\css-what\lib\es\stringify.js133642065923381758 0
 85C:\Users\Ricardo\Desktop\starter\node_modules\css-tree\cjs\syntax\node\StyleSheet.cjs133642066089735127 0
@@ -4137,6 +4138,10 @@
 72C:\Users\Ricardo\Desktop\starter\node_modules\@parcel\optimizer-svgo\src133642078642250966 1
 82C:\Users\Ricardo\Desktop\starter\node_modules\core-js\modules\web.url.can-parse.js133642110683792478 0
 73C:\Users\Ricardo\Desktop\starter\node_modules\css-tree\lib\lexer\Lexer.js133642066122549650 0
+89C:\Users\Ricardo\Desktop\starter\node_modules\core-js\modules\esnext.set.difference.v2.js133642110054104870 0
+78C:\Users\Ricardo\Desktop\starter\node_modules\core-js\stable\array\for-each.js133642110227440121 0
+73C:\Users\Ricardo\Desktop\starter\node_modules\css-tree\lib\lexer\match.js133642066123360069 0
+84C:\Users\Ricardo\Desktop\starter\node_modules\core-js\modules\es.typed-array.from.js133642110012618309 0
 77C:\Users\Ricardo\Desktop\starter\node_modules\css-tree\lib\lexer\structure.js133642066130953186 0
 88C:\Users\Ricardo\Desktop\starter\node_modules\core-js\features\array\virtual\index-of.js133642110369690784 0
 90C:\Users\Ricardo\Desktop\starter\node_modules\core-js\actual\array\virtual\reduce-right.js133642110542435371 0
@@ -5471,7 +5476,6 @@
 77C:\Users\Ricardo\Desktop\starter\node_modules\caniuse-lite\data\regions\KG.js133642066201742208 0
 89C:\Users\Ricardo\Desktop\starter\node_modules\core-js\modules\es.string.at-alternative.js133642110002291537 0
 80C:\Users\Ricardo\Desktop\starter\node_modules\core-js\modules\es.string.blink.js133642110002852208 0
-94C:\Users\Ricardo\Desktop\starter\node_modules\@parcel\runtime-js\lib\helpers\node\js-loader.js133642065992816766 0
 79C:\Users\Ricardo\Desktop\starter\node_modules\core-js\modules\es.string.bold.js133642110002908137 0
 84C:\Users\Ricardo\Desktop\starter\node_modules\core-js\modules\es.string.ends-with.js133642110003219531 0
 77C:\Users\Ricardo\Desktop\starter\node_modules\core-js\actual\object\assign.js133642109739864284 0
@@ -6394,7 +6398,7 @@
 79C:\Users\Ricardo\Desktop\starter\node_modules\core-js\full\date\to-primitive.js133642110635784484 0
 76C:\Users\Ricardo\Desktop\starter\node_modules\core-js\full\date\to-string.js133642110650453692 0
 77C:\Users\Ricardo\Desktop\starter\node_modules\caniuse-lite\data\regions\TK.js133642066286203242 0
-56C:\Users\Ricardo\Desktop\starter\dist\icons.21bad73c.svg133643204744637664 0
+56C:\Users\Ricardo\Desktop\starter\dist\icons.21bad73c.svg133645730863237974 0
 70C:\Users\Ricardo\Desktop\starter\node_modules\@parcel\packager-css\src133642078650748587 1
 89C:\Users\Ricardo\Desktop\starter\node_modules\core-js\full\data-view\get-uint8-clamped.js133642110289856535 0
 84C:\Users\Ricardo\Desktop\starter\node_modules\@swc\helpers\esm\_wrap_native_super.js133642066112442491 0
@@ -6873,8 +6877,6 @@
 91C:\Users\Ricardo\Desktop\starter\node_modules\@swc\helpers\esm\_interop_require_wildcard.js133642066101888125 0
 84C:\Users\Ricardo\Desktop\starter\node_modules\core-js\features\instance\ends-with.js133642109933614301 0
 82C:\Users\Ricardo\Desktop\starter\node_modules\core-js\features\instance\entries.js133642109938187013 0
-50C:\Users\Ricardo\Desktop\starter\src\js\helpers.js133643180229597339 0
-79C:\Users\Ricardo\Desktop\starter\node_modules\core-js\features\instance\fill.js133642110096698354 0
 88C:\Users\Ricardo\Desktop\starter\node_modules\core-js\features\instance\filter-reject.js133642110103189454 0
 85C:\Users\Ricardo\Desktop\starter\node_modules\core-js\features\instance\find-index.js133642110141923596 0
 71C:\Users\Ricardo\Desktop\starter\node_modules\@parcel\markdown-ansi\src133642078557548185 1
@@ -7241,9 +7243,9 @@
 76C:\Users\Ricardo\Desktop\starter\node_modules\core-js\es\number\parse-int.js133642110532614061 0
 81C:\Users\Ricardo\Desktop\starter\node_modules\core-js\es\number\to-exponential.js133642110622874820 0
 64C:\Users\Ricardo\Desktop\starter\node_modules\@parcel\events\lib133642078548679931 1
+96C:\Users\Ricardo\Desktop\starter\node_modules\@parcel\runtime-js\lib\helpers\node\html-loader.js133642065977358076 0
 77C:\Users\Ricardo\Desktop\starter\node_modules\caniuse-lite\data\regions\TZ.js133642066293816841 0
 92C:\Users\Ricardo\Desktop\starter\node_modules\caniuse-lite\data\features\getcomputedstyle.js133642066176159356 0
-96C:\Users\Ricardo\Desktop\starter\node_modules\@parcel\runtime-js\lib\helpers\node\html-loader.js133642065977358076 0
 75C:\Users\Ricardo\Desktop\starter\node_modules\core-js\es\number\to-fixed.js133642110624577449 0
 79C:\Users\Ricardo\Desktop\starter\node_modules\core-js\es\number\to-precision.js133642110634023236 0
 85C:\Users\Ricardo\Desktop\starter\node_modules\@swc\helpers\src\_iterable_to_array.mjs133642066177326098 0
@@ -8748,7 +8750,7 @@
 104C:\Users\Ricardo\Desktop\starter\node_modules\@parcel\runtime-service-worker\lib\ServiceWorkerRuntime.js133642065865538245 0
 79C:\Users\Ricardo\Desktop\starter\node_modules\@parcel\runtime-react-refresh\lib133642078678683011 1
 83C:\Users\Ricardo\Desktop\starter\node_modules\@parcel\runtime-react-refresh\LICENSE133642065850204056 0
-59C:\Users\Ricardo\Desktop\starter\dist\index.e37f48ea.js.map133643206029331620 0
+59C:\Users\Ricardo\Desktop\starter\dist\index.e37f48ea.js.map133645730864350417 0
 102C:\Users\Ricardo\Desktop\starter\node_modules\@parcel\runtime-react-refresh\src\ReactRefreshRuntime.js133642065877578099 0
 102C:\Users\Ricardo\Desktop\starter\node_modules\@parcel\runtime-react-refresh\lib\ReactRefreshRuntime.js133642065866002605 0
 68C:\Users\Ricardo\Desktop\starter\node_modules\@parcel\runtime-js\lib133642078672648203 1
@@ -8768,6 +8770,7 @@
 84C:\Users\Ricardo\Desktop\starter\node_modules\@parcel\runtime-js\lib\helpers\browser133642078673730532 1
 81C:\Users\Ricardo\Desktop\starter\node_modules\@parcel\runtime-js\lib\helpers\node133642078674250561 1
 95C:\Users\Ricardo\Desktop\starter\node_modules\@parcel\runtime-js\lib\helpers\node\css-loader.js133642065951240214 0
+94C:\Users\Ricardo\Desktop\starter\node_modules\@parcel\runtime-js\lib\helpers\node\js-loader.js133642065992816766 0
 96C:\Users\Ricardo\Desktop\starter\node_modules\@parcel\runtime-js\lib\helpers\node\wasm-loader.js133642066024697239 0
 98C:\Users\Ricardo\Desktop\starter\node_modules\@parcel\runtime-js\lib\helpers\browser\css-loader.js133642065943767917 0
 101C:\Users\Ricardo\Desktop\starter\node_modules\@parcel\runtime-js\lib\helpers\browser\esm-js-loader.js133642065965877021 0
@@ -9004,7 +9007,7 @@
 108C:\Users\Ricardo\Desktop\starter\node_modules\@parcel\optimizer-svgo\node_modules\csso\lib\replace\String.js133642066033073297 0
 105C:\Users\Ricardo\Desktop\starter\node_modules\@parcel\optimizer-svgo\node_modules\csso\lib\replace\Url.js133642066034611613 0
 107C:\Users\Ricardo\Desktop\starter\node_modules\@parcel\optimizer-svgo\node_modules\csso\lib\replace\Value.js133642066041475370 0
-58C:\Users\Ricardo\Desktop\starter\dist\favicon.8b2f57bf.png133643204774663838 0
+58C:\Users\Ricardo\Desktop\starter\dist\favicon.8b2f57bf.png133645624676856708 0
 121C:\Users\Ricardo\Desktop\starter\node_modules\@parcel\optimizer-svgo\node_modules\csso\lib\replace\property\background.js133642065962765777 0
 117C:\Users\Ricardo\Desktop\starter\node_modules\@parcel\optimizer-svgo\node_modules\csso\lib\replace\property\border.js133642065964835437 0
 122C:\Users\Ricardo\Desktop\starter\node_modules\@parcel\optimizer-svgo\node_modules\csso\lib\replace\property\font-weight.js133642066007674175 0
@@ -9704,9 +9707,10 @@
 186C:\Users\Ricardo\Desktop\starter\dist\[TutsNode.com] - The Complete JavaScript Course 2021 From Zero to Expert!\complete-javascript-course-master\18-forkify\starter\index.62406edb.js.map133642074161996358 0
 183C:\Users\Ricardo\Desktop\starter\dist\[TutsNode.com] - The Complete JavaScript Course 2021 From Zero to Expert!\complete-javascript-course-master\18-forkify\starter\index.f7626f62.css133642078210057551 0
 175C:\Users\Ricardo\Desktop\starter\dist\[TutsNode.com] - The Complete JavaScript Course 2021 From Zero to Expert!\complete-javascript-course-master\18-forkify\starter\index.html133642074166043904 0
-49C:\Users\Ricardo\Desktop\starter\src\js\config.js133643178535118889 0
-56C:\Users\Ricardo\Desktop\starter\dist\icons.dfd7a6db.svg133643204774643849 0
-55C:\Users\Ricardo\Desktop\starter\dist\logo.726d37a8.png133643204791350366 0
-56C:\Users\Ricardo\Desktop\starter\dist\index.f7626f62.css133643204791360343 0
-60C:\Users\Ricardo\Desktop\starter\dist\index.f7626f62.css.map133643204791925050 0
-55C:\Users\Ricardo\Desktop\starter\dist\index.e37f48ea.js133643206020621985 0
+53C:\Users\Ricardo\Desktop\starter\src\js\views\View.js133645654028136206 0
+56C:\Users\Ricardo\Desktop\starter\dist\icons.dfd7a6db.svg133645624676477306 0
+63C:\Users\Ricardo\Desktop\starter\src\js\views\paginationView.js133645727188571569 0
+56C:\Users\Ricardo\Desktop\starter\dist\index.f7626f62.css133645730863237974 0
+55C:\Users\Ricardo\Desktop\starter\dist\logo.726d37a8.png133645730863334071 0
+55C:\Users\Ricardo\Desktop\starter\dist\index.e37f48ea.js133645730863655578 0
+60C:\Users\Ricardo\Desktop\starter\dist\index.f7626f62.css.map133645730863734271 0
