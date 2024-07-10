@@ -605,6 +605,7 @@ const controlRecipes = async function() {
         const id = window.location.hash.slice(1);
         if (!id) return;
         (0, _recipeViewDefault.default).spinner();
+        (0, _resultsViewDefault.default).update(_model.getSearchResultsPage());
         await _model.loadRecipe(id);
         (0, _recipeViewDefault.default).render(_model.state.recipe);
     } catch (err) {
@@ -627,8 +628,13 @@ const controlPagination = (goToPage)=>{
     (0, _resultsViewDefault.default).render(_model.getSearchResultsPage(goToPage));
     (0, _paginationViewDefault.default).render(_model.state.search);
 };
+const controlServings = function(newServings) {
+    _model.updateServings(newServings);
+    (0, _recipeViewDefault.default).update(_model.state.recipe);
+};
 const init = ()=>{
     (0, _recipeViewDefault.default).addHandlerRender(controlRecipes);
+    (0, _recipeViewDefault.default).addHandlerUpdateServings(controlServings);
     (0, _searchViewDefault.default).addHandlerSearch(controlSearchResults);
     (0, _paginationViewDefault.default).addHandlerClick(controlPagination);
 };
@@ -1904,6 +1910,7 @@ parcelHelpers.export(exports, "state", ()=>state);
 parcelHelpers.export(exports, "loadRecipe", ()=>loadRecipe);
 parcelHelpers.export(exports, "loadSearchResults", ()=>loadSearchResults);
 parcelHelpers.export(exports, "getSearchResultsPage", ()=>getSearchResultsPage);
+parcelHelpers.export(exports, "updateServings", ()=>updateServings);
 var _runtime = require("regenerator-runtime/runtime");
 var _config = require("./config");
 var _helpers = require("./helpers");
@@ -1957,6 +1964,12 @@ const getSearchResultsPage = function(page = state.search.page) {
     const start = (page - 1) * state.search.resultsPerPage;
     const end = page * state.search.resultsPerPage;
     return state.search.results.slice(start, end);
+};
+const updateServings = (newServings)=>{
+    state.recipe.ingredients.forEach((ing)=>{
+        ing.quantity = ing.quantity * newServings / state.recipe.servings;
+    });
+    state.recipe.servings = newServings;
 };
 
 },{"regenerator-runtime/runtime":"dXNgZ","@parcel/transformer-js/src/esmodule-helpers.js":"gkKU3","./config":"k5Hzs","./helpers":"hGI1E"}],"dXNgZ":[function(require,module,exports) {
@@ -2601,6 +2614,14 @@ class RecipeView extends (0, _viewDefault.default) {
                 handler();
             }));
     }
+    addHandlerUpdateServings(handler) {
+        this._ptElement.addEventListener("click", (e)=>{
+            const btn = e.target.closest(".btn--update-servings");
+            if (!btn) return;
+            const { updateTo } = btn.dataset;
+            if (+updateTo > 0) handler(+updateTo);
+        });
+    }
     _generateMarkup() {
         return `
                <figure class="recipe__fig">
@@ -2626,12 +2647,12 @@ class RecipeView extends (0, _viewDefault.default) {
                    <span class="recipe__info-text">servings</span>
        
                    <div class="recipe__info-buttons">
-                     <button class="btn--tiny btn--increase-servings">
+                     <button data-update-to=${this._data.servings - 1} class="btn--tiny btn--update-servings">
                        <svg>
                          <use href="${0, _iconsSvgDefault.default}#icon-minus-circle"></use>
                        </svg>
                      </button>
-                     <button class="btn--tiny btn--increase-servings">
+                     <button data-update-to=${this._data.servings + 1} class="btn--tiny btn--update-servings">
                        <svg>
                          <use href="${0, _iconsSvgDefault.default}#icon-plus-circle"></use>
                        </svg>
@@ -2999,6 +3020,18 @@ class View {
         this._clear();
         this._ptElement.insertAdjacentHTML("afterbegin", markup);
     }
+    update(data) {
+        this._data = data;
+        const newMarkup = this._generateMarkup();
+        const newDom = document.createRange().createContextualFragment(newMarkup);
+        const newElements = Array.from(newDom.querySelectorAll("*"));
+        const curElements = Array.from(this._ptElement.querySelectorAll("*"));
+        newElements.forEach((newEl, i)=>{
+            const curEl = curElements[i];
+            if (!newEl.isEqualNode(curEl) && newEl.firstChild?.nodeValue.trim() !== "") curEl.textContent = newEl.textContent;
+            if (!newEl.isEqualNode(curEl)) Array.from(newEl.attributes).forEach((attr)=>curEl.setAttribute(attr.name, attr.value));
+        });
+    }
     _clear() {
         this._ptElement.innerHTML = "";
     }
@@ -3078,10 +3111,11 @@ class resultsView extends (0, _viewDefault.default) {
     _errorMessage = "We couldn't find it try again";
     _Message = "";
     _generateMarkup() {
+        const id = window.location.hash.slice(1, -1);
         return this._data.map((d)=>{
             return `          
           <li class="preview">
-            <a class="preview__link preview__link" href="/#${d.id}/">
+            <a class="preview__link ${d.id === id ? "preview__link--active" : ""}" href="/#${d.id}/">
               <figure class="preview__fig">
                 <img src="${d.image}" alt="${d.title}" />
               </figure>
